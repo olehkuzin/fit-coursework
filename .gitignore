@@ -1,0 +1,19 @@
+# Datasets and trained models are not committed (see each course README)
+*.csv
+*.pt
+*.pkl
+data/
+models/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
