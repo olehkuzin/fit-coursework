@@ -32,10 +32,6 @@ Extra packages per course are listed in each course README.
 files (e.g. `data.csv`, `train.csv`) next to the notebook. Each course README names the
 files and their public origin where it is known.
 
-## Screenshots
-
-<!-- TODO: add screenshots of selected plots -->
-
 ## License
 
 My own code is under the [MIT license](LICENSE). The assignment texts embedded in the
